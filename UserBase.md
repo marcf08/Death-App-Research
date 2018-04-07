@@ -39,7 +39,11 @@ We arrive at a potential US user base of 135,000. This is quite small.
 According to [Andrew Chen](http://andrewchen.co/quora-what-is-considered-a-significant-number-of-users-for-a-free-consumer-internet-product/), a free model requires some tens of millions of users. Even if we accounted for the global population of individuals with a cancer diagnosis, the number of potential users would be far less than what would make such a product viable.
 
 ### SaaS Model
-A SaaS model is also necessarily difficult due to the price point. Individuals with serious medical conditions cannot be charged at a permium for both moral and practical reasons (most have significant bills). Nonetheless, the SaaS model provides a ready way of predicting revenue. Nonetheless, we can perform some "back of the napkin" calculations based on the percentage of the potential user base that we think could be captured.
+A SaaS model is also necessarily difficult due to the price point. Individuals with serious medical conditions cannot be charged at a permium for both moral and practical reasons (most have significant bills). 
+
+The SaaS model is also difficult due its lack of virality.
+
+The SaaS model provides a ready way of predicting revenue. We can perform some "back of the napkin" calculations based on the percentage of the potential user base that we think could be captured.
 
 ### YRR Calculations
 
@@ -53,5 +57,4 @@ A SaaS model is also necessarily difficult due to the price point. Individuals w
 
 
 ## Conclusion
-For such an application to be profitable, we would need to capture a significant portion of the market share (> 25%). 
-
+For such an application to be profitable, we would need to capture a significant portion of the market share (> 25%). However, if these numbers were similar for Europe and Asia, establishing operational and even profitable revenue is not unthinkable. Further analysis is required to understand how technical requirements can impact such a service's profitability. If users upload large volumes of imagery or video, the technical infrastructure will be correspondingly expensive.  
