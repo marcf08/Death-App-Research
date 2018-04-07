@@ -12,7 +12,7 @@ By any standard, these are not popular services. Hence, the classic dilemma: the
 ## Assumptions
 * Sudden death, such as by car accident, is not a viable use case. Although we would like for users to use the
 app ahead of such tragedies, the reality is that few individuals think about their death
-until it is imminent (such as after having received a terminal diagnosis). As a case in point, an [AARP Study](https://www.aarp.org/money/estate-planning/info-09-2010/ten_things_you_should_know_about_writing_a_will.html) found that
+until it is possible or imminent (such as after having received a serious / terminal diagnosis). As a case in point, an [AARP Study](https://www.aarp.org/money/estate-planning/info-09-2010/ten_things_you_should_know_about_writing_a_will.html) found that
 2 out of 5 Americans over the age of 45 do not have a will prepared. 
 * Based on the AARP Study, we can therefore conclude that 3 out of 5 Americans over the age of 45 both THINK about their death AND consciously choose to do something about it. For this study's purposes, we can refer to them as "the doers."
   * Moreover, a will is a widely recognized legal document. Hence, a less known memorial app would have a smaller userbase than the aforementioned doers. 
@@ -29,7 +29,7 @@ aged from 18 - 44, largely because they would be most familiar with technology.
 | US Population with a Cancer Diagnosis              | 1688780   |
 | US Population with a Cancer Diagnosis Aged 18 - 44 | 135000    |
 
-Sources [1](https://www.cancer.gov/about-cancer/causes-prevention/risk/age), [2](https://seer.cancer.gov/statfacts/html/all.html)
+Sources: [1](https://www.cancer.gov/about-cancer/causes-prevention/risk/age), [2](https://seer.cancer.gov/statfacts/html/all.html)
 
 Hence, we arrive at a potential user base of 135,000. This is quite small.
 
