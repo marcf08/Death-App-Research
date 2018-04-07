@@ -33,7 +33,7 @@ Sources: [1](https://www.cancer.gov/about-cancer/causes-prevention/risk/age), [2
 
 We arrive at a potential US user base of 135,000. This is quite small.
 
-## Known Indicators of Success (or Failure)
+## Business Models
 
 ### As a Free Service
 According to [Andrew Chen](http://andrewchen.co/quora-what-is-considered-a-significant-number-of-users-for-a-free-consumer-internet-product/), a free model requires some tens of millions of users. Even if we accounted for the global population of individuals with a cancer diagnosis, the number of potential users would be far less than what would make such a product viable.
