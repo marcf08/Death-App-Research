@@ -29,7 +29,7 @@ aged from 18 - 44, largely because they would be most familiar with technology.
 | US Population with a Cancer Diagnosis              | 1688780   |
 | US Population with a Cancer Diagnosis Aged 18 - 44 | 135000    |
 
-Sources (1)[https://www.cancer.gov/about-cancer/causes-prevention/risk/age], (2)[https://seer.cancer.gov/statfacts/html/all.html]
+Sources [1](https://www.cancer.gov/about-cancer/causes-prevention/risk/age), [2](https://seer.cancer.gov/statfacts/html/all.html)
 
 Hence, we arrive at a potential user base of 135,000. This is quite small.
 
