@@ -18,6 +18,7 @@ until it is imminent (such as after having received a terminal diagnosis). As a 
   * Moreover, a will is a widely recognized legal document. Hence, a less known memorial app would have a smaller userbase than the aforementioned doers. 
 * It is important to point out that an individual need not receive a terminal diagnosis in order to be a potential user. A surgery, accident, or serious illness may be sufficient to cause a mortal scare and create a potential user. This potential user base, however, is difficult to quantify. Therefore we should keep the potential userbase to a list of "serious" diagnoses.
 
+## Statistical Data
 
 
 
