@@ -53,6 +53,5 @@ A SaaS model is also necessarily difficult due to the price point. Individuals w
 
 
 ## Conclusion
-There is not a viable market for such a service.
-
+For such an application to be profitable, we would need to capture a significant portion of the market share (> 25%). 
 
