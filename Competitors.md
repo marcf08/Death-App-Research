@@ -1,5 +1,6 @@
 # Market Research
 Death apps do exist. However, a lot of deaths apps focus on reminding the user of his or her own death. This is a different use case from the proposed memorial app.
+
 ## Afternote
 * Poor UI (funeral home vibe with lighthouses and beaches).
 * Price Point: Free
@@ -14,7 +15,9 @@ Death apps do exist. However, a lot of deaths apps focus on reminding the user o
 * Price Point: Free / Med / High pricing tier.
 * No mobile app
 
-
- 
-
-	
+## AfterVault
+* Nice UI.
+* Highly convincing.
+* Price Point: ~$70 per year.
+* No mobile app.
+* Low Alexa rank. 
