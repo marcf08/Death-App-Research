@@ -39,7 +39,7 @@ We arrive at a potential US user base of 135,000. This is quite small.
 According to [Andrew Chen](http://andrewchen.co/quora-what-is-considered-a-significant-number-of-users-for-a-free-consumer-internet-product/), a free model requires some tens of millions of users. Even if we accounted for the global population of individuals with a cancer diagnosis, the number of potential users would be far less than what would make such a product viable.
 
 ### SaaS Model
-A SaaS model is also necessarily difficult due to the price point. Individuals with serious medical conditions cannot be charged at a permium for both moral and practical reasons. Nonetheless, the SaaS model provides a ready way of predicting revenue. Nonetheless, we can perform some "back of the napkin" calculations based on the percentage of the potential user base that we think could be captured.
+A SaaS model is also necessarily difficult due to the price point. Individuals with serious medical conditions cannot be charged at a permium for both moral and practical reasons (most have significant bills). Nonetheless, the SaaS model provides a ready way of predicting revenue. Nonetheless, we can perform some "back of the napkin" calculations based on the percentage of the potential user base that we think could be captured.
 
 ### YRR Calculations
 
