@@ -18,7 +18,21 @@ until it is imminent (such as after having received a terminal diagnosis). As a 
   * Moreover, a will is a widely recognized legal document. Hence, a less known memorial app would have a smaller userbase than the aforementioned doers. 
 * It is important to point out that an individual need not receive a terminal diagnosis in order to be a potential user. A surgery, accident, or serious illness may be sufficient to cause a mortal scare and create a potential user. This potential user base, however, is difficult to quantify. Therefore we should keep the potential userbase to a list of "serious" diagnoses.
 
-## Statistical Data
+## Statistical Data for Potential User Base
+To get an estimate of potential users, I took a list of yearly US Cancer diagnoses. I selected a user base
+aged from 18 - 44, largely because they would be most familiar with technology.
+
+| Cohort                                             | Size      |
+|----------------------------------------------------|-----------|
+| US Population                                      | 300000000 |
+| US Population Aged 18 - 44                         | 112000000 |
+| US Population with a Cancer Diagnosis              | 1688780   |
+| US Population with a Cancer Diagnosis Aged 18 - 44 | 135000    |
+
+Sources (1)[https://www.cancer.gov/about-cancer/causes-prevention/risk/age], (2)[https://seer.cancer.gov/statfacts/html/all.html]
+
+Hence, we arrive at a potential user base of 135,000. This is quite small.
+
 
 
 
