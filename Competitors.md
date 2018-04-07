@@ -11,7 +11,7 @@ Death apps do exist. However, a lot of deaths apps focus on reminding the user o
 ## Final Wish
 * Poor UI.
 * Somewhat more convincing.
-* Note UI is not good. 
+* UI is not good. 
 * Price Point: Free / Med / High pricing tier.
 * No mobile app
 
