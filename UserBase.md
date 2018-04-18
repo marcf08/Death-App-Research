@@ -22,12 +22,12 @@ until it is possible or imminent (such as after having received a serious / term
 To get an estimate of potential users, I took a list of yearly US Cancer diagnoses. I also selected a user base
 aged from 18 - 44, largely because they would be most familiar with web apps.
 
-| Cohort                                             | Size      |
-|----------------------------------------------------|-----------|
-| US Population                                      | 300000000 |
-| US Population Aged 18 - 44                         | 112000000 |
-| US Population with a Cancer Diagnosis              | 1688780   |
-| US Population with a Cancer Diagnosis Aged 18 - 44 | 135000    |
+| Cohort                                             | Size        |
+|----------------------------------------------------|-------------|
+| US Population                                      | 300,000,000 |
+| US Population Aged 18 - 44                         | 112,000,000 |
+| US Population with a Cancer Diagnosis              | 1,688,780   |
+| US Population with a Cancer Diagnosis Aged 18 - 44 | 135,000     |
 
 Sources: [1](https://www.cancer.gov/about-cancer/causes-prevention/risk/age), [2](https://seer.cancer.gov/statfacts/html/all.html)
 
